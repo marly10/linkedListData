@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/LinkedList.cpp
+LinkedList.h
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/LinkedList.h
+iostream
+-
+
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/LinkedList.h
+Node.h
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/Node.h
+
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/Node.cpp
+Node.h
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/Node.h
+iostream
+-
+
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/Node.h
+
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/VerticalList.cpp
+VerticalList.h
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/VerticalList.h
+iostream
+-
+
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/VerticalList.h
+Node.h
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/Node.h
+iostream
+-
+
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/main.cpp
+iostream
+-
+Node.h
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/Node.h
+LinkedList.h
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/LinkedList.h
+VerticalList.h
+/Users/rickymarly/Desktop/HOME/PLNU_CLASS/PLNUFall2020/CSC2052 - Data Structures In C++ /hw_c/lab5/VerticalList.h
+
